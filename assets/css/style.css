@@ -567,3 +567,62 @@ body {
     font-size: 17px;
     line-height: 40px;
 }
+/* Support.html style */
+.support-section {
+    color: #161C2D;
+}
+.support {
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 65px;
+    padding-top: 109px;
+  
+}
+.support-text {
+    opacity: 70%;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 32px;
+    text-align: center;
+    padding-top: 44px;
+}
+.support-content {
+    opacity: 70%;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+   
+   
+}
+.parent-content {
+    width: 854px;
+    margin: 0 auto;  
+    padding-top: 39px;
+}
+.license {
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 32px;
+    padding-top: 43px;
+    padding-bottom: 20px;
+    margin-right: 130px;
+    
+    
+}
+.support-content-list {
+    opacity: 70%;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    list-style: circle;
+
+}
+.support-content-end {
+    padding-bottom: 210px;
+    opacity: 70%;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    
+}
