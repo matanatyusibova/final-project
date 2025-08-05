@@ -191,3 +191,100 @@ body {
     font-size: 17px;
     line-height: 40px;
 }
+/* signup style */
+.center-img {
+    text-align: center;
+    /* height: 100px; */
+    padding-top: 25px; 
+    padding-bottom: 25px; 
+}
+.sign-section {
+    height: 1104px;
+    background-color: #F4F7FA;
+    /* text-align: center; */
+    padding-top: 125px;
+}
+.sign-title {
+    text-align: center;
+}
+.signup-title {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 65px;
+    color: #161C2D;
+
+}
+.sign-text {
+    opacity: 70%;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 32px;
+    color: #161C2D;
+    padding-top: 34px;
+    padding-bottom: 55px;
+}
+.sign-form {
+    width: 350px;
+    height: 550px; 
+    border-radius: 10px;
+    border: 1px solid #E7E9ED;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    
+}
+.signup-form {
+    padding-top: 21px;
+    padding-left: 25px;
+    line-height: 30px;
+    margin: 0 auto;
+}
+.name {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 26px;
+    color: #161C2D;
+    padding-bottom: 7px;
+    
+}
+.sign-input {
+    border-radius: 8px;
+    border: 1px solid #E7E9ED;
+    background-color: #FFFFFF;
+    width: 300px;
+    height: 50px;
+    
+}
+.sign-btn {
+    width: 300px;
+    height: 59px;
+    border-radius: 8px;
+    border: 1 px solid white;
+    background-color: #473BF0;
+    color: white;
+    margin-top: 77px;
+}
+.signin-text {
+    text-align: center;
+    padding-top: 46px;
+    padding-bottom: 206px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #161C2D;
+}
+.sign-link {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #473BF0;
+
+}
+/* login style */
+.login-form {
+    width: 350px;
+    height: 350px; 
+    border-radius: 10px;
+    border: 1px solid #E7E9ED;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+}
